@@ -1,20 +1,20 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [GraphQL Extensions](#graphql-extensions)
-  - [Set up Instructions](#set-up-instructions)
-  - [GraphQL First development process](#graphql-first-development-process)
-    - [I'm an engineer scoping or designing a new feature](#im-an-engineer-scoping-or-designing-a-new-feature)
-    - [I'm a back-end engineer and I worked on some of the proposed changes, they just made it to master.](#im-a-back-end-engineer-and-i-worked-on-some-of-the-proposed-changes-they-just-made-it-to-master)
-    - [I'm a front-end engineer and I want to use one of the extensions here](#im-a-front-end-engineer-and-i-want-to-use-one-of-the-extensions-here)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # GraphQL Extensions
 
 This project contains a repository of suggested or draft extensions or changes (as minimal as possible for the latter) to your GraphQL Schema.
 Using [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) you will be able to proxy your existing schema but also to mock and simulate the proposed changes
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Set up Instructions](#set-up-instructions)
+- [GraphQL First development process](#graphql-first-development-process)
+  - [I'm an engineer scoping or designing a new feature](#im-an-engineer-scoping-or-designing-a-new-feature)
+  - [I'm a back-end engineer and I worked on some of the proposed changes, they just made it to master.](#im-a-back-end-engineer-and-i-worked-on-some-of-the-proposed-changes-they-just-made-it-to-master)
+  - [I'm a front-end engineer and I want to use one of the extensions here](#im-a-front-end-engineer-and-i-want-to-use-one-of-the-extensions-here)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Set up Instructions
 
