@@ -25,3 +25,6 @@ This will return a string that you need to copy and paste in the next command
 npm start -- --extend [your GraphQL endpoint] --header "Authorization:Bearer [THE AUTH TOKEN YOU GOT]" ./example.faker.graphql
 ```
 
+## Troubleshooting
+
+As the changes in the schema you are extending get incrementally implemented, you need to remove these types and fields from the schema. Indeed, `graphql-faker` can extend types but *not* override them.
